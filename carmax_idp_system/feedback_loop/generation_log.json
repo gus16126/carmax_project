@@ -92,5 +92,27 @@
     },
     "size_bytes": 1397,
     "feedback_integrated": true
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-05-24T14:25:05.557224",
+    "filename": "training_new_associate_home_delivery_onboarding_program_2026-05-24.md",
+    "path": "generated\\training_texts\\training_new_associate_home_delivery_onboarding_program_2026-05-24.md",
+    "doc_type": "training_text",
+    "description": "Training text: New Associate Home Delivery Onboarding Program for New Hires & Training Leads",
+    "source_files": [
+      "knowledge_base\\assessments\\Gustavo Guallar CarMax Manager Development \u2013 Harver Assessment Summary.md",
+      "knowledge_base\\assessments\\Gustavo Guallar Harver Assessment Summary.md",
+      "knowledge_base\\assessments\\gustavo_guallar_carmax_harver_assessment_summary.docx",
+      "knowledge_base\\assessments\\gustavo_guallar_MDP_assessment.pdf",
+      "knowledge_base\\assessments\\gustavo_guallar_self_evaluation.docx"
+    ],
+    "metadata": {
+      "subject": "New Associate Home Delivery Onboarding Program",
+      "audience": "New Hires & Training Leads",
+      "series": "Operational Excellence"
+    },
+    "size_bytes": 1668,
+    "feedback_integrated": true
   }
 ]
