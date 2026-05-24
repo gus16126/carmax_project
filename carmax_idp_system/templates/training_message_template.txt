@@ -1,0 +1,21 @@
+# Training Message Template – CarMax Logistics
+Date: [YYYY-MM-DD]
+Subject: [Training Topic]
+Audience: [Team / Specific Associates]
+
+---
+
+Good morning team,
+
+[Brief introduction to the topic or new situation.]
+
+Key points:
+• [Point 1]  
+• [Point 2]  
+• [Point 3]
+
+This reminder supports our value **Do the Right Thing** by keeping safety and compliance first.  
+Thank you for your attention and teamwork — we **Win Together** when everyone stays informed.
+
+— Gustavo Guallar  
+CarMax Logistics Team

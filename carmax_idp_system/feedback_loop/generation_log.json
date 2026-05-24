@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-05-22T16:53:13.522425",
+    "filename": "recognition_santiago_munarriz_2026-05-22.md",
+    "path": "generated/recognitions/recognition_santiago_munarriz_2026-05-22.md",
+    "doc_type": "recognition",
+    "description": "Recognition for Santiago Munarriz \u2014 Win Together: stepping up to help with an auction move without hesitation, demonstrating the kind of teamwork that makes our logistics operation run smoothly",
+    "source_files": [
+      "templates/recognition_template.md"
+    ],
+    "metadata": {
+      "to": "Santiago Munarriz",
+      "from": "Gustavo Guallar",
+      "value": "Win Together",
+      "style": "formal"
+    },
+    "size_bytes": 891,
+    "feedback_integrated": true
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-05-22T16:53:16.713679",
+    "filename": "training_pre_trip_inspection_refresher_2026-05-22.md",
+    "path": "generated/training_texts/training_pre_trip_inspection_refresher_2026-05-22.md",
+    "doc_type": "training_text",
+    "description": "Training text: Pre-Trip Inspection Refresher for All Drivers",
+    "source_files": [
+      "knowledge_base/assessments/Gustavo Guallar CarMax Manager Development \u2013 Harver Assessment Summary.md",
+      "knowledge_base/assessments/Gustavo Guallar Harver Assessment Summary.md",
+      "knowledge_base/carmax_reference/CarMax Benefits of creating an IDP.md",
+      "knowledge_base/carmax_reference/CarMax Business Overview.md",
+      "knowledge_base/carmax_reference/CarMax Code Of Business Conduct.md"
+    ],
+    "metadata": {
+      "subject": "Pre-Trip Inspection Refresher",
+      "audience": "All Drivers",
+      "series": "Safety First"
+    },
+    "size_bytes": 1898,
+    "feedback_integrated": true
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-05-22T16:53:20.264242",
+    "filename": "idp_report_q2_2026_2026-05-22.md",
+    "path": "generated/idp_reports/idp_report_q2_2026_2026-05-22.md",
+    "doc_type": "idp_report",
+    "description": "IDP Report for Q2 2026, target: Logistics Coordinator",
+    "source_files": [
+      "knowledge_base/assessments/Gustavo Guallar CarMax Manager Development \u2013 Harver Assessment Summary.md",
+      "knowledge_base/assessments/Gustavo Guallar Harver Assessment Summary.md",
+      "knowledge_base/carmax_reference/CarMax Benefits of creating an IDP.md",
+      "knowledge_base/carmax_reference/CarMax Business Overview.md",
+      "knowledge_base/carmax_reference/CarMax Code Of Business Conduct.md",
+      "knowledge_base/carmax_reference/CarMax Distinguishing Teams from Work Groups.md",
+      "knowledge_base/carmax_reference/CarMax Human Capital Resources.md",
+      "knowledge_base/carmax_reference/CarMax Laws and Regulations For Dealer.md",
+      "knowledge_base/carmax_reference/CarMax Master Leadership Binder.md",
+      "knowledge_base/carmax_reference/CarMax Vocabulary & Philosophy.md",
+      "knowledge_base/carmax_reference/CarMax-Pre-Trip Inspection Two Car Haulers.md",
+      "knowledge_base/carmax_reference/CarMax-What is the CarMax IDP.md",
+      "knowledge_base/carmax_reference/The Three Pillars of a CarMax Huddle.md",
+      "knowledge_base/carmax_reference/carmax_code_of_business_conduct_2014.txt",
+      "knowledge_base/carmax_reference/carmax_vocabulary_guide.txt",
+      "knowledge_base/carmax_reference/safety_updates.txt",
+      "knowledge_base/personal_records/Gustavo Guallar 2025 Overall Performance Rating & APR Summary.md",
+      "knowledge_base/personal_records/Management Email Communications.md",
+      "knowledge_base/personal_records/Self-Evaluation Summary.md",
+      "knowledge_base/personal_records/leadership_notes.txt"
+    ],
+    "metadata": {
+      "period": "Q2 2026",
+      "target_role": "Logistics Coordinator",
+      "focus": "comprehensive"
+    },
+    "size_bytes": 8620,
+    "feedback_integrated": true
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-05-22T16:53:23.144887",
+    "filename": "huddle_morning_safety_brief___tire_pressure_checks_2026-05-22.md",
+    "path": "generated/communications/huddle_morning_safety_brief___tire_pressure_checks_2026-05-22.md",
+    "doc_type": "communication",
+    "description": "Team Huddle Notes: Morning Safety Brief \u2014 Tire Pressure Checks",
+    "source_files": [],
+    "metadata": {
+      "type": "huddle",
+      "topic": "Morning Safety Brief \u2014 Tire Pressure Checks",
+      "audience": "CarMax Logistics Team"
+    },
+    "size_bytes": 1397,
+    "feedback_integrated": true
+  }
+]

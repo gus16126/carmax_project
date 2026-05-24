@@ -1,0 +1,40 @@
+📘 Extracted & Interpreted Summary
+
+Title: How Do You Tow a Tesla — The Complete Guide to Tow Electric Car
+Type: Training / Technical Reference (EV Recovery and Transport)
+Author / Source: Tesla Community / EV Service & Recovery Documentation (public educational source)
+Year: Likely 2023–2024
+
+🔹 Core Topics Covered
+
+Proper towing methods for electric vehicles
+
+Flatbed towing vs. dolly towing
+
+Avoiding drive motor and battery damage
+
+Safety Precautions
+
+Always place Tesla in “Transport Mode” (also known as “Tow Mode”) before loading.
+
+Never tow with wheels on the ground (due to motor regen braking risk).
+
+Disconnect high-voltage system when necessary.
+
+Charging and Jump-Start Guidance
+
+Accessing 12V battery and charge port if the car is unresponsive.
+
+Powering on a Tesla with a depleted high-voltage battery for transport readiness.
+
+Flatbed Procedure
+
+Winching instructions using tow eye attachments.
+
+Wheel strap positions and tire protection.
+
+Prohibited Methods
+
+No wheel-lift or chain towing.
+
+Never drag a Tesla with wheels locked or with the transmission engaged.

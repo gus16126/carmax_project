@@ -1,0 +1,134 @@
+# CarMax Vocabulary & Communication Guide
+**File:** /docs/CarMax_Vocabulary_Guide.txt  
+**Author:** Gustavo Felipe Guallar  
+**Created:** 2025-11-03  
+**Purpose:**  
+To maintain a unified and professional communication tone aligned with CarMax leadership standards across all training, recognition, and documentation messages.  
+
+This guide complements the Control Tower (Instructions Charter) and provides reference phrases, vocabulary tone, and structure consistent with CarMax’s culture and values.
+
+---
+
+## 1. CarMax Communication Philosophy
+CarMax managers and associates communicate with a balance of **clarity, respect, and empathy.**  
+Every message — whether recognition, instruction, or correction — should:  
+- Reinforce teamwork and inclusion.  
+- Promote learning and continuous improvement.  
+- Reflect accountability without negativity.  
+- Inspire confidence and professionalism.  
+
+**Tone:** Calm • Clear • Positive • Constructive  
+
+**Values in Language:**
+- **Win Together:** Use inclusive language — *we*, *our team*, *together*, *collaboration*.  
+- **Put People First:** Focus on appreciation, support, and recognition of effort.  
+- **Go For Greatness:** Encourage improvement and forward momentum.  
+- **Do The Right Thing:** Emphasize integrity, accuracy, and ownership.
+
+---
+
+## 2. Vocabulary Standards
+
+| Category | CarMax-Preferred Language | Avoid |
+|-----------|---------------------------|--------|
+| Appreciation | “Thanks for the support.” / “I appreciate your effort.” | “Good job” (too generic) |
+| Teamwork | “We Win Together.” / “Let’s stay aligned as a team.” | “You need to…” (isolating tone) |
+| Feedback | “Here’s what went well…” / “Let’s adjust this for next time.” | “You did this wrong.” |
+| Improvement | “We can Go for Greatness by improving this step.” | “This needs to be fixed ASAP.” |
+| Accountability | “Doing the Right Thing means following this process.” | “Don’t mess this up.” |
+| Communication | “Please reach out if you need support.” | “If you don’t understand, ask me.” |
+| Safety | “Safety first — take a moment to double-check before moving.” | “Be careful” (vague) |
+| Professional Closure | “Thanks again for your attention and teamwork.” | “Let me know” (incomplete close) |
+
+---
+
+## 3. Writing Structure for Managers
+Each communication (training, feedback, or recognition) should follow this format:  
+
+1. **Greeting** – Friendly, professional opening.  
+   > “Good morning team,” or “Hi [Name],”  
+2. **Purpose Statement** – Clarify why you’re writing.  
+   > “This message is part of our Delivery Readiness training series.”  
+3. **Key Points** – 3–5 bullet points or sentences focusing on clarity and behavior.  
+   > “1. Review paperwork before departure.”  
+   > “2. Confirm VIN and tag match.”  
+4. **Connection to CarMax Values** – Reinforce *why* it matters.  
+   > “Doing the Right Thing ensures accuracy and customer trust.”  
+5. **Positive Close** – Show appreciation and confidence.  
+   > “Thanks for representing our team with professionalism.”  
+
+---
+
+## 4. Common Leadership Statements by CarMax Managers
+
+| Theme | Example Statement |
+|--------|-------------------|
+| **Teamwork** | “We Win Together when everyone stays consistent with the process.” |
+| **Integrity** | “Doing the Right Thing means following through, even when no one’s watching.” |
+| **Development** | “Let’s Go For Greatness by learning something new this week.” |
+| **Customer Care** | “Putting People First means making each delivery smooth and stress-free.” |
+| **Safety** | “Our success starts with a safe drive — safety is our foundation.” |
+| **Recognition** | “I want to recognize your focus and commitment during yesterday’s delivery.” |
+| **Reflection** | “Let’s take a moment to review what went well and what can improve.” |
+
+---
+
+## 5. Message Tone Calibration
+When writing, apply this quick tone check:
+
+| Question | Goal |
+|-----------|------|
+| Is my message clear? | Use direct language without jargon. |
+| Is my message respectful? | Reflect understanding, not judgment. |
+| Is my message motivating? | Reinforce purpose and pride in the work. |
+| Does it align with a CarMax value? | Every message should connect to at least one value. |
+
+---
+
+## 6. Signature Standards
+
+**Manager Sign-Off Examples:**
+- “— Gustavo Guallar, CarMax Logistics Team”  
+- “— [Your Name], CarMax Delivery Manager”  
+- “— [Your Name], CarMax Home Delivery Team”  
+
+Keep sign-offs consistent with official team names.
+
+---
+
+## 7. Usage Policy
+All team communications generated within this project (recognitions, training messages, alerts, and leadership logs) must adhere to this guide.  
+Any new vocabulary additions or tone adjustments should be logged in the Control Tower’s *Change Log* under “Vocabulary Update.”  
+
+**Cross-Reference:**  
+- `Control Tower (Instructions Charter).md` → *CarMax Manager Vocabulary & Communication Standards* section  
+- `MANIFEST.md` → Documentation summary and audit compliance  
+
+---
+
+✅ **Status:** Document approved for integration.  
+Future updates to be versioned as `CarMax_Vocabulary_Guide_v2.txt` when corporate tone or frameworks are revised.
+
+---
+
+## 📝 Collected Leadership Phrases – Pending Review
+This section is used to record new vocabulary, tone, and phrasing examples observed from CarMax leaders, managers, and official communications.  
+Phrases listed here are **not yet official**, but are being evaluated for inclusion in the next vocabulary update.
+
+**Example format:**
+- “Let’s take ownership of the details — that’s how we Do the Right Thing.”
+- “I appreciate the teamwork shown during this delivery.”
+- “Every customer deserves our best — thank you for representing the brand with care.”
+
+**Next Steps:**  
+1. When this list grows to ~15 phrases, review tone and clarity with GPT-5 (agent partner).  
+2. Incorporate selected entries into official sections (Tone, Vocabulary Standards, or Leadership Statements).  
+3. Save approved update as `CarMax_Vocabulary_Guide_v2.txt`.  
+4. Log the change in both Control Tower and MANIFEST.
+
+---
+
+✅ **Version Control Status:**  
+v1 – Approved 2025-11-03  
+v2 – Pending future update (based on collected leadership phrases)
+

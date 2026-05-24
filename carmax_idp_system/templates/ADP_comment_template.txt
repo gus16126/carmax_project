@@ -1,0 +1,17 @@
+# ADP Acknowledgment Comment Template – CarMax Logistics
+Date: [YYYY-MM-DD]
+Employee: [Full Name]
+Manager: [Manager Name]
+Observation: [Training, Improvement, or Behavior Noted]
+
+---
+
+Comment:
+
+I’d like to acknowledge [Name] for their continued development in [specific area].  
+Their progress since the last observation shows commitment to growth and accountability.  
+This effort demonstrates **Put People First** through self-improvement,  
+and **Go For Greatness** by applying feedback consistently.
+
+— Gustavo Guallar  
+CarMax Logistics Team
